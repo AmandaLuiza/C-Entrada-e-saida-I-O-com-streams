@@ -1,0 +1,7 @@
+C:\Users\amanda.ribeiro\Downloads\csharppt9-master\csharppt9-master\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\amanda.ribeiro\Downloads\csharppt9-master\csharppt9-master\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\amanda.ribeiro\Downloads\csharppt9-master\csharppt9-master\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\amanda.ribeiro\Downloads\csharppt9-master\csharppt9-master\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\amanda.ribeiro\Downloads\csharppt9-master\csharppt9-master\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\Downloads\csharppt9-master\csharppt9-master\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\amanda.ribeiro\Downloads\csharppt9-master\csharppt9-master\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
